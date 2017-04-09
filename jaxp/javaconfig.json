@@ -1,0 +1,8 @@
+{
+  "groupId": "STANDARD_LIB",
+  "artifactId": "jaxp",
+  "version": "",
+  "sourceDirectories" : [
+    "src"
+  ]
+}

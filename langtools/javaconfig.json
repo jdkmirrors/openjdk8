@@ -1,0 +1,8 @@
+{
+  "groupId": "STANDARD_LIB",
+  "artifactId": "langtools",
+  "version": "",
+  "sourceDirectories" : [
+    "src/share/classes"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "groupId": "STANDARD_LIB",
+  "artifactId": "nashorn",
+  "version": "",
+  "sourceDirectories" : [
+    "src"
+  ]
+}

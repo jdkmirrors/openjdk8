@@ -1,0 +1,8 @@
+{
+  "groupId": "STANDARD_LIB",
+  "artifactId": "corba",
+  "version": "",
+  "sourceDirectories" : [
+    "src/share/classes"
+  ]
+}
