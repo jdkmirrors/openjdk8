@@ -1,8 +1,0 @@
-{
-  "groupId": "STANDARD_LIB",
-  "artifactId": "jdk8",
-  "version": "",
-  "sourceDirectories" : [
-    "src/share/classes"
-  ]
-}

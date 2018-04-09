@@ -1,8 +1,0 @@
-{
-  "groupId": "STANDARD_LIB",
-  "artifactId": "jaxws",
-  "version": "",
-  "sourceDirectories" : [
-    "src/share/jaxws_classes"
-  ]
-}

@@ -1,0 +1,52 @@
+{
+    "projects": {
+        "/nashorn": {
+            "groupId": "STANDARD_LIB",
+            "artifactId": "nashorn",
+            "version": "",
+            "sourceDirectories" : [
+                "src"
+            ]
+        },
+        "/corba": {
+            "groupId": "STANDARD_LIB",
+            "artifactId": "corba",
+            "version": "",
+            "sourceDirectories" : [
+                "src/share/classes"
+            ]
+        },
+        "/jdk": {
+            "groupId": "STANDARD_LIB",
+            "artifactId": "jdk8",
+            "version": "",
+            "sourceDirectories" : [
+                "src/share/classes"
+            ]
+        },
+        "/jaxws": {
+            "groupId": "STANDARD_LIB",
+            "artifactId": "jaxws",
+            "version": "",
+            "sourceDirectories" : [
+                "src/share/jaxws_classes"
+            ]
+        },
+        "/jaxp": {
+            "groupId": "STANDARD_LIB",
+            "artifactId": "jaxp",
+            "version": "",
+            "sourceDirectories" : [
+                "src"
+            ]
+        },
+        "/langtools": {
+            "groupId": "STANDARD_LIB",
+            "artifactId": "langtools",
+            "version": "",
+            "sourceDirectories" : [
+                "src/share/classes"
+            ]
+        }
+    }
+}
